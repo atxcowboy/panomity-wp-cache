@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-02-22 16:41+0100\n"
+"PO-Revision-Date: 2023-02-22 16:51+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ../admin/partials\n"
+"X-Poedit-KeywordsList: esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: panomity-wp-cache-admin-display.php\n"
+
+#: panomity-wp-cache-admin-display.php:34
+msgid "PANOMITY WP CACHE"
+msgstr "PANOMITY WP KÄSCH"
+
+#: panomity-wp-cache-admin-display.php:35
+msgid "A simple full page cache of the home page"
+msgstr "Aiwei a Käsch vo da Hoamseite"
+
+#: panomity-wp-cache-admin-display.php:36
+msgid ""
+"Panomity offers two powerful WordPress caching plugins: Panomity WP Cache "
+"and Panomity WP Turbo. While both plugins can help speed up your website, WP "
+"Turbo offers a number of additional features that WP Cache lacks. In the "
+"table below, we compare the key features of both plugins side-by-side, so "
+"you can make an informed decision about which one is right for your website."
+msgstr ""
+"Panomity hots zwaa kraftvoll WordPress-Caching-Plugins: den Panomity WP "
+"Cache un den Panomity WP Turbo. Beidi Pluggins könne dei Website schneller "
+"machen, awer der WP Turbo hod noch mehr Features als der WP Cache. In der "
+"Tabelle unnerm kannst du dir die wichtigsten Eigenschafde vun de beidi "
+"Pluggins anschaue un derno en informierte Entscheidung treffe, welcher "
+"besser zu dei Website passt."
+
+#: panomity-wp-cache-admin-display.php:40
+msgid ""
+"Panomity WP Turbo is only available as part of our managed WordPress "
+"hosting. Check out our"
+msgstr ""
+"Panomity WP Turbo is nur in unserem managed WordPress hosting verfügbar. "
+"Schaugs da unsere"
+
+#: panomity-wp-cache-admin-display.php:40
+msgid "hosting plans"
+msgstr "Hosting-Pläne"
+
+#: panomity-wp-cache-admin-display.php:40
+msgid "to learn more."
+msgstr "o, um mehra Info zom kriagn."
+
+#: panomity-wp-cache-admin-display.php:46
+msgid "Panomity WP Cache"
+msgstr "Panomity WP Cache"
+
+#: panomity-wp-cache-admin-display.php:47
+msgid "Panomity WP Turbo"
+msgstr "Panomity WP Schnöll"
+
+#: panomity-wp-cache-admin-display.php:52
+msgid "10 minute cache"
+msgstr "10 Minutn Käsch"
+
+#: panomity-wp-cache-admin-display.php:53
+msgid "Unlimited cache duration"
+msgstr "Unbegrenzte Käsch-Dauer"
+
+#: panomity-wp-cache-admin-display.php:56
+msgid "No custom cache expiration"
+msgstr "Koa eigene Käsch-Verfallzeit"
+
+#: panomity-wp-cache-admin-display.php:57
+msgid "Customizable cache expiration times"
+msgstr "Konfigurierbare Käsch-Verfallzeiten"
+
+#: panomity-wp-cache-admin-display.php:60
+msgid "No cache metrics"
+msgstr "Koa Käsch-Metrikn"
+
+#: panomity-wp-cache-admin-display.php:61
+msgid "Detailed cache performance metrics"
+msgstr "Detallierte Käsch-Leistungsmetrikn"
+
+#: panomity-wp-cache-admin-display.php:64
+msgid "No automatic update system"
+msgstr "Koa automatisches Update-System"
+
+#: panomity-wp-cache-admin-display.php:65
+msgid "Automatic plugin updates for optimal performance"
+msgstr "Automatische Plugin-Updates fi oprimale Leistung"
+
+#: panomity-wp-cache-admin-display.php:68
+msgid "Cache only front page"
+msgstr "Nua die Frontpage is käscht"
+
+#: panomity-wp-cache-admin-display.php:69
+msgid "Caches entire website for maximum speed"
+msgstr "Käscht de gonzn Websaitn fi maximale Gschwindigkeit"
+
+#: panomity-wp-cache-admin-display.php:72
+msgid "Not cached in RAM"
+msgstr "Net in da RAM-Käsch gspeichert"
+
+#: panomity-wp-cache-admin-display.php:73
+msgid "Caches pages in RAM for lightning-fast load times"
+msgstr "Käscht de Seiten im RAM fi blitzschnölls Loaden"
+
+#: panomity-wp-cache-admin-display.php:76
+msgid "Cache not prepopulated"
+msgstr "Käsch is net vorausgföllt"
+
+#: panomity-wp-cache-admin-display.php:77
+msgid "Prepopulates cache for instant loading on first visit"
+msgstr "Vorausgföllta Käsch fi instant Loadn beim erstn Aufruf"
+
+#: panomity-wp-cache-admin-display.php:82
+msgid ""
+"Our Managed WordPress Hosting comes  along with powerful tools like activity "
+"monitoring and proactive threat management. The hosting plan also includes "
+"daily backups, 24/7 external monitoring, and support via live chat and "
+"ticket support. Additionally, it comes with pre-installable premium add-ons, "
+"visitor statistic analysis, a SEO plugin with a 15-day dashboard test and "
+"much more."
+msgstr ""
+"Unsa managed WordPress Hosting kimmd mid machtvollen Tools wia "
+"Aktivitätsüberwachung und proaktives Bedrohungsmanagement. Da Hosting-Plan "
+"enthoit aa tägliches Backup, 24/7 extane Überwachung und Support via Live-"
+"Chat und Ticket-Support. Zamm mit dafia gibt’s aa preinstallierbare Premium-"
+"Add-ons, Besucherstatistik-Analyse, a SEO-Plugin mid am 15-Tog-Dashboard-"
+"Test und no vui mehra."
+
+#: panomity-wp-cache-admin-display.php:85
+msgid "Visit Panomity WP Turbo Homepage"
+msgstr "Besuach de Panomity WP Turbo Homepage"

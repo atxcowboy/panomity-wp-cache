@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Panomity WP Cache\n"
+"POT-Creation-Date: 2023-02-22 16:57+0100\n"
+"PO-Revision-Date: 2023-02-22 16:58+0100\n"
+"Last-Translator: \n"
+"Language-Team: Hazim Terzic\n"
+"Language: bs_BA@latin\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ../admin/partials\n"
+"X-Poedit-KeywordsList: esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: panomity-wp-cache-admin-display.php\n"
+
+#: panomity-wp-cache-admin-display.php:34
+msgid "PANOMITY WP CACHE"
+msgstr "PANOMITY WP CACHE"
+
+#: panomity-wp-cache-admin-display.php:35
+msgid "A simple full page cache of the home page"
+msgstr "Jednostavna predmemorija cijele stranice početne stranice"
+
+#: panomity-wp-cache-admin-display.php:36
+msgid ""
+"Panomity offers two powerful WordPress caching plugins: Panomity WP Cache "
+"and Panomity WP Turbo. While both plugins can help speed up your website, WP "
+"Turbo offers a number of additional features that WP Cache lacks. In the "
+"table below, we compare the key features of both plugins side-by-side, so "
+"you can make an informed decision about which one is right for your website."
+msgstr ""
+"Panomity nudi dva moćna WordPress dodatka za keširanje: Panomity WP Cache i "
+"Panomity WP Turbo. Iako oba dodatka mogu pomoći da ubrzate vašu web "
+"stranicu, WP Turbo nudi niz dodatnih funkcija koje WP Cache nedostaju. U "
+"donjoj tabeli poredimo ključne karakteristike oba dodatka jedan pored "
+"drugog, tako da možete donijeti informiranu odluku o tome koji je pravi za "
+"vašu web stranicu."
+
+#: panomity-wp-cache-admin-display.php:40
+msgid ""
+"Panomity WP Turbo is only available as part of our managed WordPress "
+"hosting. Check out our"
+msgstr ""
+"Panomity WP Turbo je dostupan samo kao dio našeg upravljanog WordPress "
+"hostinga. Pogledajte naše"
+
+#: panomity-wp-cache-admin-display.php:40
+msgid "hosting plans"
+msgstr "hosting planovi"
+
+#: panomity-wp-cache-admin-display.php:40
+msgid "to learn more."
+msgstr "da saznate više."
+
+#: panomity-wp-cache-admin-display.php:46
+msgid "Panomity WP Cache"
+msgstr "Panomity WP Cache"
+
+#: panomity-wp-cache-admin-display.php:47
+msgid "Panomity WP Turbo"
+msgstr "Panomity WP Turbo"
+
+#: panomity-wp-cache-admin-display.php:52
+msgid "10 minute cache"
+msgstr "10 minuta cache"
+
+#: panomity-wp-cache-admin-display.php:53
+msgid "Unlimited cache duration"
+msgstr "Neograničeno trajanje keš memorije"
+
+#: panomity-wp-cache-admin-display.php:56
+msgid "No custom cache expiration"
+msgstr "Nema isteka prilagođenog keša"
+
+#: panomity-wp-cache-admin-display.php:57
+msgid "Customizable cache expiration times"
+msgstr "Prilagodljiva vremena isteka keša"
+
+#: panomity-wp-cache-admin-display.php:60
+msgid "No cache metrics"
+msgstr "Nema keš metrika"
+
+#: panomity-wp-cache-admin-display.php:61
+msgid "Detailed cache performance metrics"
+msgstr "Detaljne metrike performansi keša"
+
+#: panomity-wp-cache-admin-display.php:64
+msgid "No automatic update system"
+msgstr "Nema automatskog sistema ažuriranja"
+
+#: panomity-wp-cache-admin-display.php:65
+msgid "Automatic plugin updates for optimal performance"
+msgstr "Automatsko ažuriranje dodataka za optimalne performanse"
+
+#: panomity-wp-cache-admin-display.php:68
+msgid "Cache only front page"
+msgstr "Cache samo naslovna strana"
+
+#: panomity-wp-cache-admin-display.php:69
+msgid "Caches entire website for maximum speed"
+msgstr "Kešira cijelu web stranicu za maksimalnu brzinu"
+
+#: panomity-wp-cache-admin-display.php:72
+msgid "Not cached in RAM"
+msgstr "Nije keširano u RAM-u"
+
+#: panomity-wp-cache-admin-display.php:73
+msgid "Caches pages in RAM for lightning-fast load times"
+msgstr "Kešira stranice u RAM-u za munjevito vrijeme učitavanja"
+
+#: panomity-wp-cache-admin-display.php:76
+msgid "Cache not prepopulated"
+msgstr "Keš memorija nije unaprijed popunjena"
+
+#: panomity-wp-cache-admin-display.php:77
+msgid "Prepopulates cache for instant loading on first visit"
+msgstr "Unaprijed popuni keš memoriju za trenutno učitavanje pri prvoj posjeti"
+
+#: panomity-wp-cache-admin-display.php:82
+msgid ""
+"Our Managed WordPress Hosting comes  along with powerful tools like activity "
+"monitoring and proactive threat management. The hosting plan also includes "
+"daily backups, 24/7 external monitoring, and support via live chat and "
+"ticket support. Additionally, it comes with pre-installable premium add-ons, "
+"visitor statistic analysis, a SEO plugin with a 15-day dashboard test and "
+"much more."
+msgstr ""
+"Naš upravljani WordPress hosting dolazi zajedno sa moćnim alatima kao što su "
+"praćenje aktivnosti i proaktivno upravljanje prijetnjama. Plan hostinga "
+"također uključuje dnevne sigurnosne kopije, vanjski nadzor 24/7 i podršku "
+"putem live chata i podrške za ulaznice. Uz to, dolazi s pre-instaliranim "
+"premium dodacima, analizom statistike posjetitelja, SEO dodatkom sa 15-"
+"dnevnim testom kontrolne ploče i još mnogo toga."
+
+#: panomity-wp-cache-admin-display.php:85
+msgid "Visit Panomity WP Turbo Homepage"
+msgstr "Posjetite početnu stranicu Panomity WP Turbo"
