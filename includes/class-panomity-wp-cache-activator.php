@@ -20,7 +20,7 @@ class PANOMITY_WP_CACHE_Activator {
 	 * @since    8.1
 	 */
 	public static function activate() {
-	    copy(plugin_dir_path( __DIR__ )."assets/panomity-wp-cache.php", get_home_path()."panomity-wp-cache.php");
+	    //
 	}
 
 }

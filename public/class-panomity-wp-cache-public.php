@@ -12,44 +12,44 @@
 
 class PANOMITY_WP_CACHE_Public {
 
-	/**
-	 * The ID of this plugin.
-	 *
-	 * @since    8.1
-	 * @access   private
-	 * @var      string    $panomity_wp_cache    The ID of this plugin.
-	 */
-	private $panomity_wp_cache;
+    /**
+     * The ID of this plugin.
+     *
+     * @since    8.1
+     * @access   private
+     * @var      string    $panomity_wp_cache    The ID of this plugin.
+     */
+    private $panomity_wp_cache;
 
-	/**
-	 * The version of this plugin.
-	 *
-	 * @since    8.1
-	 * @access   private
-	 * @var      string    $version    The current version of this plugin.
-	 */
-	private $version;
+    /**
+     * The version of this plugin.
+     *
+     * @since    8.1
+     * @access   private
+     * @var      string    $version    The current version of this plugin.
+     */
+    private $version;
 
-	/**
-	 * Initialize the class and set its properties.
-	 *
-	 * @since    8.1
-	 * @param      string    $panomity_wp_cache       The name of the plugin.
-	 * @param      string    $version    The version of this plugin.
-	 */
-	public function __construct( $panomity_wp_cache, $version ) {
+    /**
+     * Initialize the class and set its properties.
+     *
+     * @since    8.1
+     * @param      string    $panomity_wp_cache       The name of the plugin.
+     * @param      string    $version    The version of this plugin.
+     */
+    public function __construct( $panomity_wp_cache, $version ) {
 
-		$this->panomity_wp_cache = $panomity_wp_cache;
-		$this->version = $version;
+        $this->panomity_wp_cache = $panomity_wp_cache;
+        $this->version = $version;
 
-	}
+    }
 
-	/**
-	 * Register the stylesheets for the public-facing side of the site.
-	 *
-	 * @since    8.1
-	 */
-	public function enqueue_styles() {
+    /**
+     * Register the stylesheets for the public-facing side of the site.
+     *
+     * @since    8.1
+     */
+    public function enqueue_styles() {
 
 		/**
 		 * This function is provided for demonstration purposes only.
@@ -67,12 +67,12 @@ class PANOMITY_WP_CACHE_Public {
 
 	}
 
-	/**
-	 * Register the JavaScript for the public-facing side of the site.
-	 *
-	 * @since    8.1
-	 */
-	public function enqueue_scripts() {
+    /**
+     * Register the JavaScript for the public-facing side of the site.
+     *
+     * @since    8.1
+     */
+    public function enqueue_scripts() {
 
 		/**
 		 * This function is provided for demonstration purposes only.
@@ -86,8 +86,15 @@ class PANOMITY_WP_CACHE_Public {
 		 * class.
 		 */
 
-		//wp_enqueue_script( $this->panomity_wp_cache, plugin_dir_url( __FILE__ ) . 'js/panomity-wp-cache-public.js', array( 'jquery' ), $this->version, false );
-
+		/** 
+        *
+        wp_enqueue_script( $this->panomity_wp_cache, 
+            plugin_dir_url( __FILE__ ) 
+            . 'js/panomity-wp-cache-public.js', 
+            array( 'jquery' ), 
+            $this->version, 
+            false );
+        */
 	}
 
 }
