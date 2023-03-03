@@ -31,6 +31,9 @@ If you do not feel confident in editing source files, please consider our manage
 
 == Changelog ==
 
+= 8.1.2 =
+* Add missing data sanitization and variable escaping.
+
 = 8.1.1 =
 * Initital release for PHP v8.1 after rebranding.
 
